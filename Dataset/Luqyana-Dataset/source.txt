@@ -1,0 +1,4 @@
+Luqyana, W. A., Cholissodin, I., & Perdana, R. S. (2018). Analisis Sentimen Cyberbullying pada Komentar Instagram dengan Metode Klasifikasi Support Vector Machine. Jurnal Pengembangan Teknologi Informasi Dan Ilmu Komputer E-ISSN, 2(11), 4704–4713.
+
+
+Purwarianti, A., & Crisdayanti, I. A. P. A. (2019). Improving bi-lstm performance for indonesian sentiment analysis using paragraph vector. 2019 International Conference of Advanced Informatics: Concepts, Theory and Applications (ICAICTA), 1–5.
