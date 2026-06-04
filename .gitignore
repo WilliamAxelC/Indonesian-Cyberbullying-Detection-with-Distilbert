@@ -1,3 +1,26 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local runtime logs and results
+logs/
+results/
 Cyberbullying-Train-Test.ipynb
-logs
-results
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary files & ML artifacts
+*.vec
+*.gz
+*.tar.gz
+*.zip
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.env
